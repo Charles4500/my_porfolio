@@ -1,12 +1,12 @@
 // Import images
-import HtmlImage from '../images/brands/html.png';
-import CssImage from '../images/brands/css.png';
-import JavaScriptImage from '../images/brands/javascript.png';
-import ReactImage from '../images/brands/react.png';
-import Tailwindmage from '../images/brands/tailwind.png';
-import Python from '../images/brands/pthon.webp';
-import PostgreSQL from '../images/brands/ps.webp';
-import NextImage from '../images/brands/nextjs.png';
+import HtmlImage from '/home/charles/Desktop/portfolio/src/assets/html.png';
+import CssImage from '/home/charles/Desktop/portfolio/src/assets/css.png';
+import JavaScriptImage from '/home/charles/Desktop/portfolio/src/assets/javascript.png';
+import ReactImage from '/home/charles/Desktop/portfolio/src/assets/react.png';
+import Tailwindmage from '/home/charles/Desktop/portfolio/src/assets/tailwind.png';
+import Python from '/home/charles/Desktop/portfolio/src/assets/pthon.webp';
+import PostgreSQL from '/home/charles/Desktop/portfolio/src/assets/ps.webp';
+import NextImage from '/home/charles/Desktop/portfolio/src/assets/nextjs.png';
 
 export const clientsHeading = 'Technologies';
 

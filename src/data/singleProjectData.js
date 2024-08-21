@@ -1,10 +1,10 @@
 // Import images
-import Image1 from '/home/charles/Desktop/portfolio/src/assets/ui-project-1.jpg';
-import Image2 from '/home/charles/Desktop/portfolio/src/assets/web-project-2.jpg';
-import Image3 from '/home/charles/Desktop/portfolio/src/assets/mobile-project-2.jpg';
-import Image4 from '/home/charles/Desktop/portfolio/src/assets/mobile-project-1.jpg';
-import Image5 from '/home/charles/Desktop/portfolio/src/assets/web-project-1.jpg';
-import Image6 from '/home/charles/Desktop/portfolio/src/assets/ui-project-2.jpg';
+import Image1 from '/src/assets/ui-project-1.jpg';
+import Image2 from '/src/assets/web-project-2.jpg';
+import Image3 from '/src/assets/mobile-project-2.jpg';
+import Image4 from '/src/assets/mobile-project-1.jpg';
+import Image5 from '/src/assets/web-project-1.jpg';
+import Image6 from '/src/assets/ui-project-2.jpg';
 import {  FiTwitter, FiLinkedin } from 'react-icons/fi';
 // Import icons
 // import { FaSquareXTwitter } from "react-icons/fa";
